@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0, ramalin.com - Nordic
+#EXTINF:-1,Posavina TV
+http://109.225.93.94:8000/play/a00e
+#EXTINF:-1,Sjuan
+http://109.225.93.94:8000/play/a007
+#EXTINF:-1,Kanal 11
+http://109.225.93.94:8000/play/a008
+#EXTINF:-1,TV4
+http://109.225.93.94:8000/play/a009
+#EXTINF:-1,TV4 Film
+http://109.225.93.94:8000/play/a00b
+#EXTINF:-1,Atlas TV
+http://109.225.93.94:8000/play/a00d
+#EXTINF:-1,HISTORY HD
+http://109.225.93.94:8000/play/a00g
+#EXTINF:-1,TV4 Fakta
+http://109.225.93.94:8000/play/a00a
+#EXTINF:-1,TV4 Komedi
+http://109.225.93.94:8000/play/a00c
+#EXTINF:-1,OBN
+http://109.225.93.94:8000/play/a00f
