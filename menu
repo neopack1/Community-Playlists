@@ -1,11 +1,12 @@
-<channels>
-<channel>
-      <name>[COLOR white]Stallion IPTV[/COLOR]</name>
-  <thumbnail>http://s19.postimg.org/4discu5gj/icon.png</thumbnail>
+
+
+<item>
+<title>[COLOR white]Stallion IPTV[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://s19.postimg.org/4discu5gj/icon.png</thumbnail>
 <fanart>http://s19.postimg.org/smdbasv8j/fanart.jpg</fanart>
-   <externallink>http://pastebin.com/raw/asEcUbD5</externallink>
-</channel>
-  </channels>
+<externallink>http://pastebin.com/raw/asEcUbD5</externallink>
+</item>
 
 
 
