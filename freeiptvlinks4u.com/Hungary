@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTUNF:-1,freeiptvlinks4u.com - hungary
+http://www.www.com
+#EXTINF:-1,m1 (480×270)
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist_b800000.m3u8
+#EXTINF:-1,m1 (640×360)
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,m1 (854×480)
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,m2 (480×270)
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist_b800000.m3u8
+#EXTINF:-1,m2 (640×360)
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,m2 (854×480)
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,m4 (480×270)
+http://212.40.98.166/intstreams/mtva/mtv4live.smil/chunklist_b800000.m3u8
+#EXTINF:-1,m4 (640×360)
+http://212.40.98.166/intstreams/mtva/mtv4live.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,m4 (854×480)
+http://212.40.98.166/intstreams/mtva/mtv4live.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Duna (480×270)
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist_b800000.m3u8
+#EXTINF:-1,Duna (640×360)
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Duna (854×480)
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Duna World (480×270)
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist_b800000.m3u8
+#EXTINF:-1,Duna World (640×360)
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Duna World (854×480)
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist_b1600000.m3u8
