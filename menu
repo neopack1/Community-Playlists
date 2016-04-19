@@ -7,15 +7,7 @@
 </channel>
   </channels>
 
-<channels>
-<channel>
-      <name>[COLOR white]Stallion IPTV[/COLOR]</name>
-  <thumbnail>http://s19.postimg.org/4discu5gj/icon.png</thumbnail>
-<fanart>http://s19.postimg.org/smdbasv8j/fanart.jpg</fanart>
-   <link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
-</channel>
-  </channels>
+
 
 
 
