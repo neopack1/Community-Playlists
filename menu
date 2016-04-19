@@ -1,4 +1,4 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
 <title>[COLOR white]Stallion IPTV[/COLOR]</title>
@@ -9,7 +9,14 @@
 </item>
 
 
+<item>
+<title>[COLOR white]Cartoon Crazy[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.phstreams/?action=cartoon</jsonrpc>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/cartoon.png</thumbnail>
+</item>
 
 
+</channels>
 
 
