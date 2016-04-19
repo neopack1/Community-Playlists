@@ -20,7 +20,7 @@
 <item>
 <title>[COLOR white]Nordic List - ramalin.com[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnailhttp://www.ramalin.com/wp-content/uploads/2015/08/scandinavian-flag-207x161.jpg</thumbnail>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/08/scandinavian-flag-207x161.jpg</thumbnail>
 <fanart></fanart>
 <externallink>http://pastebin.com/raw/kfFV1p4t</externallink>
 </item>
@@ -28,7 +28,7 @@
 <item>
 <title>[COLOR white]Germany[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnailhttp://www.ramalin.com/wp-content/uploads/2015/08/scandinavian-flag-207x161.jpg</thumbnail>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/08/scandinavian-flag-207x161.jpg</thumbnail>
 <fanart></fanart>
 <externallink>http://pastebin.com/raw/geGKpq2U</externallink>
 </item>
@@ -36,10 +36,12 @@
 <item>
 <title>[COLOR pink]IPTVLinks4U[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnailhttp://iptv-work.at.ua/3/yfy_iptv.png</thumbnail>
+<thumbnail>http://iptv-work.at.ua/3/yfy_iptv.png</thumbnail>
 <fanart></fanart>
 <externallink>https://github.com/tdbnz/Community-Playlists/raw/master/freeiptvlinks4u.com/menu/menu</externallink>
 </item>
+
+
 
 
 
