@@ -25,6 +25,16 @@
 <externallink>https://github.com/tdbnz/Community-Playlists/raw/master/zem%20TV</externallink>
 </item>
 
+<item>
+<title>[COLOR white]Film On[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.F.T.V/</jsonrpc>
+<thumbnail>https://addons.tvaddons.ag/cache/images/7ebc52ad462bb37c291796671d5ed9_icon.png</thumbnail>
+</item>
+
+
+
+
 </channels>
 
 
