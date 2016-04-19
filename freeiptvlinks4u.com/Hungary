@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTUNF:-1,freeiptvlinks4u.com - hungary
-http://www.www.com
+#EXTINF:0,freeiptvlinks4u.com - Hungary
+http://www.xxx.com
 #EXTINF:-1,m1 (480×270)
 http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist_b800000.m3u8
 #EXTINF:-1,m1 (640×360)
