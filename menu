@@ -2,13 +2,25 @@
 
 
 <item>
-<title>[COLOR whit]Adryan List[/COLOR]</title>
+<title>[COLOR white]Adryan List[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</externallink>
 <fanart></fanart>
 <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.adryanlist.png.pagespeed.ic.mqL_pj0aWa.png</thumbnail>
 <info></info>
 </item>
+
+
+<item>
+<title>[COLOR white]Premier League[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://github.com/tdbnz/Community-Playlists/raw/master/Premier%20league</externallink>
+<fanart>http://masbradwall.com/wp-content/uploads/2016/03/Premier-League-Logo-Wallpaper-el5T8.jpg</fanart>
+<thumbnail>http://cdn.redmondpie.com/wp-content/uploads/2012/01/Barclays-Premier-League.jpg</thumbnail>
+<info></info>
+</item>
+
+
 
 <item>
 <title>[B]Total[COLOR lightblue][B]p[/B][/COLOR][COLOR green][B]l[/B][/COLOR][COLOR orange][B]a[/B][/COLOR][COLOR red][B]y[/B][/COLOR]</title>
@@ -67,7 +79,7 @@
 
 
 <item>
-<title>[COLOR Red]*** Programs ***[/COLOR]</title>
+<title>[b][COLOR Red]*** Programs ***[/COLOR][/b]</title>
 <link>http://ignorame</link>
 <thumbnail>http://lakeechorec.com/wp-content/uploads/2012/01/programs.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/LYxgZf9Xv-Q/hqdefault.jpg</fanart>
