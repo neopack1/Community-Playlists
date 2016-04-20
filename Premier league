@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR white]Find channel and enjoy[/COLOR]</title>
+<title>[COLOR white]Find channel from either of these sections and enjoy[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://xxx.com</externallink>
 <fanart>http://fansided.com/files/2014/01/Barclays-Premier-League-logo.jpg</fanart>
@@ -12,14 +12,9 @@
 <item>
 <title>[COLOR white]Zem TV > PAk TV[/COLOR]</title>
 <link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52</jsonrpc>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=Paktv%20sports&amp;url=sss</jsonrpc>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR white]Zem TV > PAk TV[/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52</jsonrpc>
-<thumbnail></thumbnail>
-</item>
+
 
