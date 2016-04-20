@@ -1,4 +1,5 @@
 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
 <title>[COLOR white]Mr Music[/COLOR]</title>
@@ -17,3 +18,6 @@
 <thumbnail>http://icons.iconarchive.com/icons/icons8/android/512/Music-Radio-icon.png/thumbnail>
 <info></info>
 </item>
+
+
+</channels>
