@@ -1,8 +1,25 @@
 <item>
-<title>[COLOR whit]Adrain Sport -Premier League[/COLOR]</title>
+<title>[COLOR white]Find channel and enjoy[/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://raw.githubusercontent.com/Adrian1730/ProjectAdrian/master/AdrianSports/List/LiveBPL</externallink>
+<externallink>https://xxx.com</externallink>
 <fanart>http://fansided.com/files/2014/01/Barclays-Premier-League-logo.jpg</fanart>
 <thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
 <info></info>
 </item>
+
+
+
+<item>
+<title>[COLOR white]Zem TV > PAk TV[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Zem TV > PAk TV[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
