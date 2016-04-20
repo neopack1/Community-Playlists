@@ -24,60 +24,89 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrcumbria_mf_p?s=&
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p?s=&
 #EXTINF:0,BBC Radio Derby
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrderby_mf_p?s=&
-#EXTINF:0,BBC Radio Devon (County FM)=http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrdevon_mf_p?s=&
-BBC Radio Foyle
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p?s=&
-BBC Radio Gloucester
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrgloucs_mf_p?s=&
-BBC Radio Guernsey
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrguern_mf_p?s=&
-BBC Radio Humberside
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrhumber_mf_p?s=&
-BBC Radio Jersey
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrjersey_mf_p?s=&
-BBC Radio Kent
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrkent_mf_p?s=&
-BBC Radio Lancashire
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlancs_mf_p?s=&
-BBC Radio Leicester
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrleics_mf_p?s=1&
-BBC Radio Lincolnshire
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlincs_mf_p?s=&
-BBC Radio Manchester
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p?s=&
-BBC Radio Merseyside
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmersey_mf_p?s=&
-BBC Radio Nan Gaidheal
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p?s=&
-BBC Radio Norfolk
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnorfolk_mf_p?s=&
-BBC Radio Scotland
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p?s=&
-BBC Radio Sheffield
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsheff_mf_p?s=&
-BBC Radio Shropshire
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrshrops_mf_p?s=&
-BBC Radio Solent
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsolent_mf_p?s=&
-BBC Radio Stoke
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrstoke_mf_p?s=&
-BBC Radio Suffolk
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsuffolk_mf_p?s=&
-BBC Radio Ulster
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p?s=&
-BBC Radio Wales
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p?s=&
-BBC Radio York (York FM)
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lryork_mf_p?s=&
-BBC Radio Somerset
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsomer_mf_p?s=&
-BBC Radio Surrey
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsurrey_mf_p?s=&
-BBC Tees
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrtees_mf_p?s=&
-BBC Three Counties Radio
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lr3cr_mf_p?s=&
-BBC Wiltshire
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwilts_mf_p?s=&
-BBC West Midlands (WM)
-#EXTINF:0,http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwm_mf_p?s=&
+#EXTINF:0,BBC Radio Devon (County FM)
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrdevon_mf_p?s=&
+
+#EXTINF:0,BBC Radio Foyle
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p?s=&
+
+#EXTINF:0,BBC Radio Gloucester
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrgloucs_mf_p?s=&
+
+#EXTINF:0,BBC Radio Guernsey
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrguern_mf_p?s=&
+
+#EXTINF:0,BBC Radio Humberside
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrhumber_mf_p?s=&
+
+#EXTINF:0,BBC Radio Jersey
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrjersey_mf_p?s=&
+
+#EXTINF:0,BBC Radio Kent
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrkent_mf_p?s=&
+
+#EXTINF:0,BBC Radio Lancashire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlancs_mf_p?s=&
+
+#EXTINF:0,BBC Radio Leicester
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrleics_mf_p?s=1&
+
+#EXTINF:0,BBC Radio Lincolnshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlincs_mf_p?s=&
+
+#EXTINF:0,BBC Radio Manchester
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p?s=&
+
+#EXTINF:0,BBC Radio Merseyside
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmersey_mf_p?s=&
+
+#EXTINF:0,BBC Radio Nan Gaidheal
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p?s=&
+
+#EXTINF:0,BBC Radio Norfolk
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnorfolk_mf_p?s=&
+
+#EXTINF:0,BBC Radio Scotland
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p?s=&
+
+#EXTINF:0,BBC Radio Sheffield
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsheff_mf_p?s=&
+
+#EXTINF:0,BBC Radio Shropshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrshrops_mf_p?s=&
+
+#EXTINF:0,BBC Radio Solent
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsolent_mf_p?s=&
+
+#EXTINF:0,BBC Radio Stoke
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrstoke_mf_p?s=&
+
+#EXTINF:0,BBC Radio Suffolk
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsuffolk_mf_p?s=&
+
+#EXTINF:0,BBC Radio Ulster
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p?s=&
+
+#EXTINF:0,BBC Radio Wales
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p?s=&
+
+#EXTINF:0,BBC Radio York (York FM)
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lryork_mf_p?s=&
+
+#EXTINF:0,BBC Radio Somerset
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsomer_mf_p?s=&
+
+#EXTINF:0,BBC Radio Surrey
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsurrey_mf_p?s=&
+
+#EXTINF:0,BBC Tees
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrtees_mf_p?s=&
+
+#EXTINF:0,BBC Three Counties Radio
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lr3cr_mf_p?s=&
+
+#EXTINF:0,BBC Wiltshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwilts_mf_p?s=&
+
+#EXTINF:0,BBC West Midlands (WM)
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwm_mf_p?s=&
