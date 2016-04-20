@@ -30,6 +30,15 @@
 <externallink>http://pastebin.com/raw/3z2pGtS7</externallink>
 </item>
 
+<item>
+<title>[COLOR pink]Pastebin[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/xN4ER.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://github.com/tdbnz/Community-Playlists/raw/master/pastebin</externallink>
+</item>
+
+
 
 <item>
 <title>[COLOR pink]Ramalin[/COLOR]</title>
@@ -55,7 +64,7 @@
 
 
 <item>
-<title>[COLOR white]Cartoon Crazy[/COLOR]</title>
+<title>[COLOR white]Cartoon Crazy -Phoenix[/COLOR]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.phstreams/?action=cartoon</jsonrpc>
 <thumbnail>http://phoenixtv.offshorepastebin.com/art/main/cartoon.png</thumbnail>
@@ -71,7 +80,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Film On[/COLOR]</title>
+<title>[COLOR white]Filmon[/COLOR]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.F.T.V/</jsonrpc>
 <thumbnail>https://addons.tvaddons.ag/cache/images/7ebc52ad462bb37c291796671d5ed9_icon.png</thumbnail>
