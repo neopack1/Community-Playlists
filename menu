@@ -71,21 +71,6 @@
 
 
 
-<item>
-<title>[COLOR white]Cartoon Crazy -Phoenix[/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.phstreams/?action=cartoon</jsonrpc>
-<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/cartoon.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white]Zem TV (Zem TV required)[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://www.zemtv.com/wp-content/uploads/2014/12/zem-logo-final1.png</thumbnail>
-<fanart></fanart>
-<externallink>https://github.com/tdbnz/Community-Playlists/raw/master/zem%20TV</externallink>
-</item>
 
 <item>
 <title>[COLOR white]Filmon[/COLOR]</title>
