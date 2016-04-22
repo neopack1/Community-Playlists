@@ -1,27 +1,24 @@
 #EXTM3U
- 
- #EXTINF:-1,------ Links will be added on Event Day ------
+
+#EXTINF:-1,                      ------ Links will be added on Event Day ------
 http://149.202.85.84:8080
  
  
-
- 
-#EXTINF:-1, Jon Jones vs Ovince Saint Preux 
+#EXTINF:-1,                             Jon Jones vs Ovince Saint Preux 
 http://149.202.85.84:8080
  
   
-#EXTINF:-1, Date of fight: 
+#EXTINF:-1,                                      Date of fight: 
 http://149.202.85.84:8080
 
-#EXTINF:-1,Saturday 23rd (UK/US) Sunday 24th (AUS/NZ)
+#EXTINF:-1,                       Saturday 23rd (UK/US) Sunday 24th (AUS/NZ)
 http://149.202.85.84:8080
 
 
-
-#EXTINF:-1,Times (Below)
+#EXTINF:-1,                                       Times (Below)
 http://149.202.85.84:8080
 
-#EXTINF:-1,Prelims (Fox Sport 1) - 8pm ET / 5pm PT  / 12pm nz
+#EXTINF:-1,                     Prelims (Fox Sport 1) - 8pm ET / 5pm PT  / 12pm nz
 http://149.202.85.84:8080
 
 
@@ -29,7 +26,6 @@ http://149.202.85.84:8080
 http://149.202.85.84:8080
 
 
- 
- #EXTINF:-1,------ Links will be added on Event Day ------
+#EXTINF:-1,                       ------ Links will be added on Event Day ------
 http://149.202.85.84:8080
  
