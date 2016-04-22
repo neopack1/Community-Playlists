@@ -1,0 +1,59 @@
+<item>
+<title>[COLOR white]Fox Sport 1 720 HD[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8?sd=10&rebase;=on </link>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white]Fox Sports 1[/COLOR]</title>
+<link>$doregex[url]</link><regex>	<name>url</name>
+
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.info/')</expres>
+<page></page></regex></item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR white]BT Sport 2[/COLOR]</title>
+<link>http://185.59.222.65:8080:8080/Iuyjbmmhhjfdmbt2/index.m3u8</link>
+<thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white]BT Sports 2[/COLOR]</title>
+<link>http://79.143.83.90:8600:8600/Bt2live/nido/index.m3u8?token=M2I3OTA2MTZiMTk2YzdjN2QzNTk3MjdlNWZkYWNjNTI6MTQ2MTMwODk4Mg==</link>
+<thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>
+</item>
+
+
+<item>
+<title>BT Sport 2</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>
+<fanart></fanart>
+</item>
