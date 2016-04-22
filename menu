@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+<item>
+<title>[COLOR white]LIVE / PPV[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://github.com/tdbnz/Community-Playlists/raw/master/live/ppv/ufc</externallink>
+<fanart>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</fanart>
+<thumbnail>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</thumbnail>
+<info></info>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white]Adryan List[/COLOR]</title>
