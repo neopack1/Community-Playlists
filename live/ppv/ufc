@@ -1,4 +1,8 @@
-
+<item>
+<title>[COLOR white]Fox Sport 1 720 HD[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8?sd=10&rebase;=on </link>
+<thumbnail></thumbnail>
+</item>
  
 <item>
 <title>[COLOR white]Fox Sports 1[/COLOR]</title>
@@ -6,6 +10,11 @@
 
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.info/')</expres>
 <page></page></regex></item>
+
+
+
+
+
 
 
 
