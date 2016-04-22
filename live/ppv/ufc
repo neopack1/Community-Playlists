@@ -5,13 +5,29 @@ http://149.202.85.84:8080
  
 
  
-#EXTINF:-1, Jon Jones vs Ovince Saint Preux (Fox Sports 1 PPV Schedule)
+#EXTINF:-1, Jon Jones vs Ovince Saint Preux 
 http://149.202.85.84:8080
  
   
-#EXTINF:-1, See all coverage fights and start time:
-Preliminary Fights Couple of preliminary bouts (TBA): 11:30 (UK time) and 06:30 PM ET (US time)
+#EXTINF:-1, Date of fight: Saturday 23rd (UK)
 http://149.202.85.84:8080
+
+#EXTINF:-1,Saturday 23rd (UK/US) Sunday 24th (AUS/NZ)
+http://149.202.85.84:8080
+
+
+
+#EXTINF:-1,Times (Below)
+http://149.202.85.84:8080
+
+#EXTINF:-1,Prelims (Fox Sport 1) - 8pm ET / 5pm PT  / 2pm nz
+http://149.202.85.84:8080
+
+
+#EXTINF:-1,Main Event - 10pm ET / 7pm PT / 2pm NZ
+http://149.202.85.84:8080
+
+
  
  
  
