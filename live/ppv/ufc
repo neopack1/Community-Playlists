@@ -1,8 +1,17 @@
-#EXTM3U
- 
-#EXTINF:-1,BT Sport 2
-http://79.143.83.90:8600/Bt2live/nido/index.m3u8
 
-#EXTINF:-1,Fox Sport 1
-http://88.150.198.114:1857/FOXSPORTS1/Sports1/index.m3u8?token=ZDUyMDg5YWQ0MjBjMzgwNzFlMzJhZWQ4MDJkMjgzNTY6MTQ2MTI5NzEyOA==|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+ 
+<item>
+<title>[COLOR white]Fox Sports 1[/COLOR]</title>
+<link>$doregex[url]</link><regex>	<name>url</name>
+
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.info/')</expres>
+<page></page></regex></item>
+
+
+
+<item>
+<title>[COLOR white]FOX Sport 1 [/COLOR]</title>
+<link>http://88.150.198.114:1857/FOXSPORTS1/Sports1/index.m3u8?token=ZDUyMDg5YWQ0MjBjMzgwNzFlMzJhZWQ4MDJkMjgzNTY6MTQ2MTI5NzEyOA==|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
+<thumbnail>https://addons.tvaddons.ag/cache/images/7ebc52ad462bb37c291796671d5ed9_icon.png</thumbnail>
+</item>
 
