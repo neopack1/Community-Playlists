@@ -9,7 +9,7 @@ http://149.202.85.84:8080
 http://149.202.85.84:8080
  
   
-#EXTINF:-1, Date of fight: Saturday 23rd (UK)
+#EXTINF:-1, Date of fight: 
 http://149.202.85.84:8080
 
 #EXTINF:-1,Saturday 23rd (UK/US) Sunday 24th (AUS/NZ)
@@ -20,7 +20,7 @@ http://149.202.85.84:8080
 #EXTINF:-1,Times (Below)
 http://149.202.85.84:8080
 
-#EXTINF:-1,Prelims (Fox Sport 1) - 8pm ET / 5pm PT  / 2pm nz
+#EXTINF:-1,Prelims (Fox Sport 1) - 8pm ET / 5pm PT  / 12pm nz
 http://149.202.85.84:8080
 
 
@@ -29,5 +29,6 @@ http://149.202.85.84:8080
 
 
  
- 
+ #EXTINF:-1,------ Links will be added on Event Day ------
+http://149.202.85.84:8080
  
