@@ -15,3 +15,14 @@
 <thumbnail>https://addons.tvaddons.ag/cache/images/7ebc52ad462bb37c291796671d5ed9_icon.png</thumbnail>
 </item>
 
+<item>
+<title>FOX SPORTS 1 LATINO</title>
+<link>http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail/>
+<fanart/>
+</item>
+
+<item><title>[COLOR blue]Fox Sports 1  USA[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSports1HD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=FoxSports1HD&amp;cm=190&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> 
+
+<item><title>[COLOR hotpink]BT Sports 2[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/LiveEdge/btsport2.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=btsport2.stream&amp;cm=2481&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item>
