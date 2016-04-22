@@ -1,16 +1,22 @@
+#EXTM3U
+ 
+#EXTINF:-1,Link 1 - BT Sports 2 m3u8
 http://88.150.206.73:8081/streamflare/bt2/playlist.m3u8
-or
-http://88.150.206.73:8081/streamflare/bt2/playlist.m3u
 
-https://www.youtube.com/user/UFC/playlists|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-
+#EXTINF:-1,Link 2 - BT Sports 2
 http://37.220.29.186:8000/BTSports2/DRMS/index.m3u8
 
-http://batmanstream.com/free-live-video-streaming-fighting-ufc-197-early-prelims-other-371081.html
-
+#EXTINF:-1,Link 3 - BT Sports 2
 http://79.143.83.90:8600/Bt2live/nido/index.m3u8
 
+#EXTINF:-1,Link 4 - Fox Sport 1
 http://88.150.198.114:1857/FOXSPORTS1/Sports1/index.m3u8?token=ZDUyMDg5YWQ0MjBjMzgwNzFlMzJhZWQ4MDJkMjgzNTY6MTQ2MTI5NzEyOA==|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 
+#EXTINF:-1,Link 5 - Fox Sport 1 -m3u
+http://37.220.29.186:8000/fox/sports1/index.m3u  
 
-http://37.220.29.186:8000/fox/sports1/index.m3u  or m3u8
+#EXTINF:-1,Link 6 - Fox Sport 1 -m3u8
+http://37.220.29.186:8000/fox/sports1/index.m3u 
+
+#EXTINF:-1,Link 7 - Youtube 
+https://www.youtube.com/user/UFC/playlists|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
