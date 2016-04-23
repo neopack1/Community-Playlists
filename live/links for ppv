@@ -1,12 +1,14 @@
 UFC PPV  links
 
 <item>
-<titl
-e>[COLOR white]Fox Sport 1 720 HD[/COLOR]</title>
+<title>[COLOR white]Fox Sport 1 720 HD[/COLOR]</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8?sd=10&rebase;=on </link>
 <thumbnail></thumbnail>
 </item>
  
+ #EXTINF:-1,Fox sports 1 HD
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
+
 <item>
 <title>[COLOR white]Fox Sports 1[/COLOR]</title>
 <link>$doregex[url]</link><regex>	<name>url</name>
