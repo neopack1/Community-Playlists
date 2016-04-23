@@ -29,5 +29,15 @@ http://149.202.85.84:8080
 #EXTINF:-1,                       ------ Links will be added on Event Day ------
 http://149.202.85.84:8080
  
-#EXTINF:-1,Fox sports 1
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
+
+#EXTINF:-1,ES: BT Sport 2
+http://mamahd.com/watch-bt-sport-2-live-stream-1.html
+
+
+#EXTINF:-1,: bt 2
+rtmpe://134.19.185.202:1935/livedge playpath=mamahdbtsport2 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport2&vw=680&vh=490&doma in=mamahd.com token=Fo5_n0w?U.rA6l3-70w47
+
+
+
+#EXTINF:-1, BT Sport 2 
+rtmp://80.82.64.140:443/liverepeater playpath=36 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
