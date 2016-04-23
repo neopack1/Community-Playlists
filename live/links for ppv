@@ -5,9 +5,14 @@ UFC PPV  links
 <link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8?sd=10&rebase;=on </link>
 <thumbnail></thumbnail>
 </item>
- 
- #EXTINF:-1,Fox sports 1 HD
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
+
+
+<item>
+<title>[COLOR white]Fox Sport 1 720 HD[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+  
 
 <item>
 <title>[COLOR white]Fox Sports 1[/COLOR]</title>
@@ -22,7 +27,6 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
 
 
 
-
 <item>
 <title>[COLOR white]BT Sport 2[/COLOR]</title>
 <link>http://185.59.222.65:8080:8080/Iuyjbmmhhjfdmbt2/index.m3u8</link>
@@ -30,11 +34,6 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
 </item>
 
 
-<item>
-<title>[COLOR white]BT Sports 2[/COLOR]</title>
-<link>http://79.143.83.90:8600:8600/Bt2live/nido/index.m3u8?token=M2I3OTA2MTZiMTk2YzdjN2QzNTk3MjdlNWZkYWNjNTI6MTQ2MTMwODk4Mg==</link>
-<thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>
-</item>
 
 
 <item>
@@ -62,3 +61,23 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
 <thumbnail>http://www.liveonlinetv247.info/images/btsport2.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>bt sports 2 - Sports Devil</title>
+<sportsdevil>http://www.ibrod.tv/btsports2.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+<item>
+<title>BT Sport 2<title>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0</link>
+<regex>
+<name>url</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/embed/btsport2.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
