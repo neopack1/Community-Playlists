@@ -29,5 +29,21 @@ http://149.202.85.84:8080
 #EXTINF:-1,                       ------ Links will be added on Event Day ------
 http://149.202.85.84:8080
  
-#EXTINF:-1,bt sports
-rtmpe://109.202.103.22:1935/livedge playpath=mamahdbtsport2 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
+<item>
+<title>bt sports 2 - Sports Devil</title>
+<sportsdevil>http://www.ibrod.tv/btsports2.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+<item>
+<title>BT Sport 2<title>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0</link>
+<regex>
+<name>url</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/embed/btsport2.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
