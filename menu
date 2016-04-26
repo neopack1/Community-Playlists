@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red]Addon Under Maintenance [/COLOR]</title>
+<title>[COLOR white]Addon Under Maintenance [/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://github.com/</externallink>
 <fanart>http://helpfindmyquotes.com/down_for_maintenance.png</fanart>
@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[COLOR red]Database Error[/COLOR]</title>
+<title>[COLOR white]Database Error[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://github.com/</externallink>
 <fanart>http://helpfindmyquotes.com/down_for_maintenance.png</fanart>
@@ -20,7 +20,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Error connecting to server 1Af-error[/COLOR]</title>
+<title>[COLOR white]Error connecting to server 1Af-error[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://github.com/</externallink>
 <fanart>http://helpfindmyquotes.com/down_for_maintenance.png</fanart>
