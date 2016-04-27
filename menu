@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white]Addon Under Maintenance [/COLOR]</title>
+<title>[COLOR white]Addon Update available -Please Update from repo[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://github.com/</externallink>
 <fanart>http://helpfindmyquotes.com/down_for_maintenance.png</fanart>
@@ -10,23 +10,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white]Database Error[/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://github.com/</externallink>
-<fanart>http://helpfindmyquotes.com/down_for_maintenance.png</fanart>
-<thumbnail>http://domino757.org/maintenance.jpg</thumbnail>
-<info></info>
-</item>
 
-<item>
-<title>[COLOR white]Error connecting to server 1Af-error[/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://github.com/</externallink>
-<fanart>http://helpfindmyquotes.com/down_for_maintenance.png</fanart>
-<thumbnail>http://domino757.org/maintenance.jpg</thumbnail>
-<info></info>
-</item>
 
 
 </channels>
