@@ -1,8 +1,17 @@
+
+
+
 <item>
-<title>[COLOR white]UFC - Jones Vs Saint Preux (match deails inside)[/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://github.com/tdbnz/Community-Playlists/raw/master/live/ppv/ufc</externallink>
-<fanart>http://1.bp.blogspot.com/-m9ixLYwcxT0/TdCgiR8-AmI/AAAAAAAAAAw/Pi3a8NiXu6c/s1600/ufc+ultimate+fighting+championship+logo+wallpaper+background.jpg</fanart>
-<thumbnail>http://www.mma-core.com/images/images/large/108513.jpg</thumbnail>
-<info></info>
+<title>[COLOR green]Live Sports[/COLOR][COLOR red]All Sport Shown[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
+ <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR gold][B]LIVE Sports HD/SD UPDATE EVERDAY[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
 </item>
