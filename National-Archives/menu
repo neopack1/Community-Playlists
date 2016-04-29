@@ -5,10 +5,8 @@
 <item>
 <title>[COLOR white]New Zealand Video Archives[/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>http://audiovisual.archives.govt.nz/filmplayer/?film=pictorialparade183</externallink>
-<fanart>
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-</fanart>
+<externallink>https://github.com/tdbnz/Community-Playlists/raw/master/National-Archives/main-menu/menu</externallink>
+<fanart></fanart>
 <thumbnail>http://audiovisual.archives.govt.nz/wiki/skins/common/images/anz.jpg</thumbnail>
 <info></info>
 </item>
