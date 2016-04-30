@@ -18,9 +18,9 @@
 
 
 <item>
-<title>[COLOR gold][B]Geordie tv test -LIVE[/B][/COLOR]</title>
-<link>http://livestream.com/accounts/19164240/geordietv</link>
+<title>[COLOR gold][B]Geordie Live test[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=%5BCOLOR%3DFF00B7EB%2F%5DGeordie+TV+Test%5B%2FCOLOR%5D&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F000000000050d54e%2F44c93e70-98f5-4645-818d-aa361b9a19e8_1380.jpg&amp;event_id=5297486&amp;owner_id=19164240&amp;video_id=LIVE&quot</jsonrpc>
 <thumbnail></thumbnail>
 </item>
-
 
