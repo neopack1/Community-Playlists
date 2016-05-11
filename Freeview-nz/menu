@@ -9,7 +9,7 @@
 
 
 <item>
-<title>[COLOR white]TV 1[/COLOR]</title>
+<title>[COLOR white]TV 1  -Plus 1[/COLOR]</title>
 <link>http://livestream.etv.org.nz/tv1.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/423230339905908736/8ERAeGPj_400x400.png</thumbnail>
 </item>
@@ -37,6 +37,13 @@
 <title>[COLOR white]Channel North[/COLOR]</title>
 <link>http://livestream.etv.org.nz/channelnorth.m3u8</link>
 <thumbnail>http://www.etv.org.nz/images/channel_logos/channel_north_logo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white]Choice TV[/COLOR]</title>
+<link>http://livestream.etv.org.nz/choicetv.m3u8</link>
+<thumbnail>http://www.etv.org.nz/images/channel_logos/choicetv.jpg</thumbnail>
 </item>
 
 
