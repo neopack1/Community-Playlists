@@ -33,5 +33,12 @@
 <thumbnail>http://www.etv.org.nz/images/channel_logos/four.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR white]Channel North[/COLOR]</title>
+<link>http://livestream.etv.org.nz/channelnorth.m3u8</link>
+<thumbnail>http://www.etv.org.nz/images/channel_logos/channel_north_logo.jpg</thumbnail>
+</item>
+
+
 
 </channels>
