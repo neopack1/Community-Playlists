@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
 
 <item>
 <title>[COLOR black]New Zealand Freeview[/COLOR]</title>
@@ -11,3 +13,6 @@
 <link>http://livestream.etv.org.nz/tv1.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/423230339905908736/8ERAeGPj_400x400.png</thumbnail>
 </item>
+
+
+</channels>
